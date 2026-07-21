@@ -1,0 +1,22 @@
+.content__lists {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    line-height: 1.6;
+    display: flex;
+    gap: 200px;
+}
+
+.content {
+    color: aliceblue;
+}
+
+.link {
+    color: aliceblue;
+    max-width: 260px;
+    margin-left: 100px;
+}
+
+.header__lists {
+    color: aliceblue;
+}
