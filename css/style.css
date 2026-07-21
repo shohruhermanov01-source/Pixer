@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -86,4 +87,12 @@ button:hover {
     margin-left: 15px;
     color: #00aeef;
     font-size: 12px;
+=======
+.photo {
+    padding-left: 300px;
+    display: flex;
+    text-align: center;
+    column-gap: 20px;
+    align-items: center;
+>>>>>>> 37841d183bc04767358d06f8a439440a8956e337
 }
