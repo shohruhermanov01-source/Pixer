@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizeng: border-box;
+    box-sizing: border-box;
+}
+.container{
+    max-widh: 1140px;
+    whidh: 100%;
+    margin: 0 auto;
+
+}
+ul

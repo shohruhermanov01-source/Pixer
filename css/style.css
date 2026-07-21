@@ -1,7 +1,98 @@
+<<<<<<< HEAD
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+}
+
+.services {
+    text-align: center;
+    padding: 45px 30px;
+}
+
+.services h1 {
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+.description {
+    font-size: 13px;
+    line-height: 20px;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.cards {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 35px 45px;
+}
+
+.card {
+    width: 220px;
+    min-height: 175px;
+    padding: 10px 15px 20px;
+    background: white;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card img {
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 5px;
+}
+
+.card h2 {
+    font-size: 15px;
+    margin-bottom: 12px;
+}
+
+.card p {
+    font-size: 12px;
+}
+
+.buttons {
+    margin-top: 28px;
+}
+
+button {
+    background: #00aeef;
+    color: white;
+    border: none;
+    padding: 9px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #008dcc;
+}
+
+.buttons a {
+    margin-left: 15px;
+    color: #00aeef;
+    font-size: 12px;
+=======
 .photo {
     padding-left: 300px;
     display: flex;
     text-align: center;
     column-gap: 20px;
     align-items: center;
+>>>>>>> 37841d183bc04767358d06f8a439440a8956e337
 }
